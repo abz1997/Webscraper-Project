@@ -23,7 +23,7 @@ print(d)
 # print(anagrams)
 
 #print (f'largest number of variants:  {max(anagrams, key=len)}') #largest number of variants
-#test2
+
 # longest_word = max(chain.from_iterable(anagrams), key = len)
 # list_index = [(i,a.index(longest_word)) for i, a in enumerate(anagrams) if longest_word in a]
 # print(f'longest pair of words that are anagrams of each other: {anagrams[list_index[0][0]]}') #longest pair of words that are anagrams of each other
