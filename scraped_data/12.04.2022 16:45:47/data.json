@@ -1,0 +1,112 @@
+{
+    "UPC": [
+        "a897fe39b1053632",
+        "90fa61229261140a",
+        "6957f44c3847a760",
+        "e00eb4fd7b871a48",
+        "4165285e1663650f",
+        "f77dbf2323deb740",
+        "2597b5a345f45e1b",
+        "e72a5dfc7e9267b2"
+    ],
+    "title": [
+        "A Light in the Attic",
+        "Tipping the Velvet",
+        "Soumission",
+        "Sharp Objects",
+        "Sapiens: A Brief History of Humankind",
+        "The Requiem Red",
+        "The Dirty Little Secrets of Getting Your Dream Job",
+        "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull"
+    ],
+    "product_type": [
+        "Books",
+        "Books",
+        "Books",
+        "Books",
+        "Books",
+        "Books",
+        "Books",
+        "Books"
+    ],
+    "genre": [
+        "Poetry",
+        "Historical Fiction",
+        "Fiction",
+        "Mystery",
+        "History",
+        "Young Adult",
+        "Business",
+        "Default"
+    ],
+    "URL": [
+        "http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+        "http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+        "http://books.toscrape.com/catalogue/soumission_998/index.html",
+        "http://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+        "http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+        "http://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+        "http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+        "http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html"
+    ],
+    "image_link": [
+        "http://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg",
+        "http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg",
+        "http://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg",
+        "http://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg",
+        "http://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg",
+        "http://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg",
+        "http://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg",
+        "http://books.toscrape.com/media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg"
+    ],
+    "price_excl_tax": [
+        "\u00a351.77",
+        "\u00a353.74",
+        "\u00a350.10",
+        "\u00a347.82",
+        "\u00a354.23",
+        "\u00a322.65",
+        "\u00a333.34",
+        "\u00a317.93"
+    ],
+    "price_incl_tax": [
+        "\u00a351.77",
+        "\u00a353.74",
+        "\u00a350.10",
+        "\u00a347.82",
+        "\u00a354.23",
+        "\u00a322.65",
+        "\u00a333.34",
+        "\u00a317.93"
+    ],
+    "tax": [
+        "\u00a30.00",
+        "\u00a30.00",
+        "\u00a30.00",
+        "\u00a30.00",
+        "\u00a30.00",
+        "\u00a30.00",
+        "\u00a30.00",
+        "\u00a30.00"
+    ],
+    "availability": [
+        "In stock (22 available)",
+        "In stock (20 available)",
+        "In stock (20 available)",
+        "In stock (20 available)",
+        "In stock (20 available)",
+        "In stock (19 available)",
+        "In stock (19 available)",
+        "In stock (19 available)"
+    ],
+    "number_of_reviews": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+    ]
+}

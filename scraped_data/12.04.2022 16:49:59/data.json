@@ -1,0 +1,57 @@
+{
+    "UPC": [
+        "a897fe39b1053632",
+        "90fa61229261140a",
+        "6957f44c3847a760"
+    ],
+    "title": [
+        "A Light in the Attic",
+        "Tipping the Velvet",
+        "Soumission"
+    ],
+    "product_type": [
+        "Books",
+        "Books",
+        "Books"
+    ],
+    "genre": [
+        "Poetry",
+        "Historical Fiction",
+        "Fiction"
+    ],
+    "URL": [
+        "http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+        "http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+        "http://books.toscrape.com/catalogue/soumission_998/index.html"
+    ],
+    "image_link": [
+        "http://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg",
+        "http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg",
+        "http://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg"
+    ],
+    "price_excl_tax": [
+        "\u00a351.77",
+        "\u00a353.74",
+        "\u00a350.10"
+    ],
+    "price_incl_tax": [
+        "\u00a351.77",
+        "\u00a353.74",
+        "\u00a350.10"
+    ],
+    "tax": [
+        "\u00a30.00",
+        "\u00a30.00",
+        "\u00a30.00"
+    ],
+    "availability": [
+        "In stock (22 available)",
+        "In stock (20 available)",
+        "In stock (20 available)"
+    ],
+    "number_of_reviews": [
+        "0",
+        "0",
+        "0"
+    ]
+}
